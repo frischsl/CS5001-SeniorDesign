@@ -27,7 +27,7 @@ Python | * * * * *
 JS | * * *
 TSQL | * * *
 Flutter | * *
-HTML / CSS | * *
+HTML / CSS | * 
 
 ## Areas of Interest
 * Mobile Development
