@@ -9,4 +9,4 @@
 #### TBD | TBD
 
 ### Topic Area
-#### Development of Flutter app that utilizes Azure Cloud Services.
+#### Development of a Meal Planner application that allows users detailed customization of nutritional values / diets.
