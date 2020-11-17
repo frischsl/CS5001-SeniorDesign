@@ -116,21 +116,21 @@ With our application we hope to give users an easy way to answer the question an
 <td>Timeline Task/Milestone</td><td>Start Date</td><td>Completion Date</td><td>Effort Matrix Primary Owner</td><td>Effort Hours</td>
 </tr>
 <tr style="background-color: #f0f0f0">
-<td>Complete design details / solidify technologies and scope of project</td><td>10/2</td><td>10/9</td><td>Both</td><td align="right">3</td>
+<td><strike>Complete design details / solidify technologies and scope of project</td><td>10/2</td><td>10/9</td><td>Both</td><td align="right">3</td>
 </tr>
 <tr style="background-color: #ffffff">
 <td>Gather data from web to use as resources</td><td>10/2</td><td>10/9</td><td>Sam</td><td align="right">3</td></tr>
 <tr style="background-color: #f0f0f0">
-<td>Research and understand different popular diets (athlete, daily needs, etc.)</td><td>10/2</td><td>10/4</td><td>Zac</td><td align="right">1</td>
+<td><strike>Research and understand different popular diets (athlete, daily needs, etc.)</td><td>10/2</td><td>10/4</td><td>Zac</td><td align="right">1</td>
 </tr>
 <tr style="background-color: #ffffff">
 <td>Create recipe database with ingredients dataset and compose table structures</td><td>10/9</td><td>10/23</td><td>Zac</td><td align="right">6</td>
 </tr>
 <tr style="background-color: #f0f0f0">
-<td>Research mobile application platforms/languages</td><td>10/9</td><td>10/16</td><td>Sam</td><td align="right">3</td>
+<td><strike>Research mobile application platforms/languages</td><td>10/9</td><td>10/16</td><td>Sam</td><td align="right">3</td>
 </tr>
 <tr style="background-color: #ffffff">
-<td>Obtain any necessary software or licenses</td><td>&nbsp;</td><td>&nbsp;</td><td>Both</td><td align="right">2</td>
+<td><strike>Obtain any necessary software or licenses</td><td>&nbsp;</td><td>&nbsp;</td><td>Both</td><td align="right">2</td>
 </tr>
 <tr style="background-color: #f0f0f0">
 <td>Build mobile application Flutter</td><td>10/16</td><td>11/13</td><td>Sam</td><td align="right">12</td>
