@@ -41,6 +41,7 @@ Once you have the application on your device, you can then continue to the follo
 ***
 
 ## Meal Plans
+The meal plans screen is where you can quickly access all your previously created meal plans to try them out again, or, create a new one! You will then be prompted to name your meal plan so you will be able to reference them in the future.
 <p>
   <img src=/User%20Docs%20Images/CreateMealPlan.png width="265" height="500">
   <img src=/User%20Docs%20Images/NameMealPlan.png width="265" height="500">
@@ -49,6 +50,7 @@ Once you have the application on your device, you can then continue to the follo
 ***
 
 ## Social Media
+What's more fun than seeing what everyone else is eating? FstFd brings a simple way to see what recipes and meal plans your friends are really enjoying. You can separate the views by either a global view or a friend view.
 <p>
   <img src=/User%20Docs%20Images/GlobalSocialMedia.png width="265" height="500">
   <img src=/User%20Docs%20Images/FriendSocialMedia.png width="265" height="500">
@@ -57,21 +59,23 @@ Once you have the application on your device, you can then continue to the follo
 ***
 
 ## Grocery List
+FstFd allows you to seamlessly put all the ingredients you need to create a meal plan right into your very own grocery list. This is where you can look as you go shopping for everything that you need.
 <img src=/User%20Docs%20Images/GroceryList.png width="265" height="500">
 
 ***
 
 ## Profile
+Keep track of your own personal favorites with the profile. 
 <img src=/User%20Docs%20Images/UserProfile.png width="265" height="500">
 
 ***
 
 ## FAQ
-1. Why the hell would I even use this garbage app?
+1. Are there any limitations on the nutritional specifications?
 
-       Well, you do not gotta be that rude.
+   Nope! But remember, some specifications are unrealistic so the more strict the parameters, the less options you will have.
 
-2. QUESTION
+2. Will my friends know if I make a specific meal plan?
 
-       ANSWER
+   Unless you share it, your data is completely private.
 
