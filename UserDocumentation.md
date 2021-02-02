@@ -25,8 +25,9 @@
 ***
 
 ## Installation Guide
+FstFd is a mobile application for IOS and Android devices. So it can be found on the Apple or Google Play Store respectively.
 
-
+Once you have the application on your device, you can then continue to the following sections for further setup or help.
 
 ***
 
@@ -40,24 +41,37 @@
 ***
 
 ## Meal Plans
-
-
+<p>
+  <img src=/User%20Docs%20Images/CreateMealPlan.png width="265" height="500">
+  <img src=/User%20Docs%20Images/NameMealPlan.png width="265" height="500">
+</p>
 
 ***
 
 ## Social Media
-
+<p>
+  <img src=/User%20Docs%20Images/GlobalSocialMedia.png width="265" height="500">
+  <img src=/User%20Docs%20Images/FriendSocialMedia.png width="265" height="500">
+</p>
 
 ***
 
 ## Grocery List
-
+<img src=/User%20Docs%20Images/GroceryList.png width="265" height="500">
 
 ***
 
 ## Profile
-
+<img src=/User%20Docs%20Images/UserProfile.png width="265" height="500">
 
 ***
 
 ## FAQ
+1. Why the hell would I even use this garbage app?
+
+       Well, you do not gotta be that rude.
+
+2. QUESTION
+
+       ANSWER
+
