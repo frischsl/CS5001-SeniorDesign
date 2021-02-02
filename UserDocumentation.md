@@ -10,7 +10,7 @@
     * [Diet Specification](#diet-specification)
     * [Weekly Overview](#weekly-overview)
         * [Recipe Details](#recipe-details)
-        * [Share Recipe / Meal Plan](#share-recipe-/-meal-plan)
+        * [Share Recipe or Meal Plan](#share-recipe-or-meal-plan)
 5. [Social Media](#social-media)
 6. [Grocery List](#grocery-list)
 7. [Profile](#profile)
@@ -80,7 +80,7 @@ Once you have the application on your device, you can then continue to the follo
 
 ***
 
-## Share Recipe / Meal Plan
+## Share Recipe or Meal Plan
 <p>Since FstFd has a social component, we created an easy way to share recipes. Simply click the share icon found in the top right-hand corner of the Recipe Details or Weekly Overview Screen and you will be directed to this page. Fill out a title and leave some comments on your selected recipe/meal plan and share it. Simple as that!</p>
 <p>
   <img src=/User%20Docs%20Images/ShareRecipe.png width="265" height="500">
