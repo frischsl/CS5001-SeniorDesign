@@ -20,7 +20,7 @@
 ***
 
 ## Overview
-
+FstFd was designed with the vision of helping people remove obstacles between them and making nutritionally healthy food. The approach is straightforward, tell the app what your nutritional requirements are and let it handles everything else. Need low Iodine in your diet? We've got you covered. Trying to build muscle on your muscles? High protein meals are just a couple taps away.
 
 ***
 
