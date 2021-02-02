@@ -1,3 +1,4 @@
+<link href="/User%20Docs%20Images/UserDocumentation.css" rel="stylesheet"></link>
 
 # User Documentation
 
@@ -29,9 +30,10 @@ FstFd is a mobile application for IOS and Android devices. So it can be found on
 Once you have the application on your device, you can then continue to the following sections for further setup or help.
 
 ***
-
+   
 ## Login
-<p>FstFd has a typical login screen. If you already have an existing account then you can enter your username and password.</p>
+
+<div>FstFd has a typical login screen. If you already have an existing account then you can enter your username and password.</div>
 
 <img src=/User%20Docs%20Images/Login.png width="265" height="500">
 
