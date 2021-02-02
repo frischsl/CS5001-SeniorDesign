@@ -20,7 +20,7 @@
 ***
 
 ## Overview
-FstFd was designed with the vision of helping people remove obstacles between them and making nutritionally healthy food. The approach is straightforward, tell the app what your nutritional requirements are and let it handles everything else. Need low Iodine in your diet? We've got you covered. Trying to build muscle on your muscles? High protein meals are just a couple taps away.
+FstFd was designed with the vision of helping people remove obstacles between them and making nutritionally healthy food. The approach is straightforward, tell the app what your nutritional requirements are and let it handle everything else. Need low Iodine in your diet? We've got you covered. Trying to build muscle on your muscles? High protein meals are just a couple taps away.
 
 ***
 
@@ -59,7 +59,7 @@ Once you have the application on your device, you can then continue to the follo
 ***
 
 ## Diet Specification
-<p>Not only can you specify your meals by nutritional specification, but also by any diet or intolerances you have. Simply tap on the checkbox that realtes to your situation and it will be added as a parameter to consider when creating your meal plan.</p>
+<p>Not only can you specify your meals by nutritional specification, but also by any diet or intolerances you have. Simply tap on the checkbox that relates to your situation and it will be added as a parameter to consider when creating your meal plan.</p>
 <p>
   <img src=/User%20Docs%20Images/DietSpecification.png width="265" height="500">
 </p>
@@ -114,7 +114,7 @@ Once you have the application on your device, you can then continue to the follo
 ## FAQ
 1. Are there any limitations on the nutritional specifications?
 
-   Nope! But remember, some specifications are unrealistic so the more strict the parameters, the less options you will have.
+   Nope! But remember, some specifications are unrealistic, so the more strict the parameters, the less options you will have.
 
 2. Will my friends know if I make a specific meal plan?
 
