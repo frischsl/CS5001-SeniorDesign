@@ -5,18 +5,15 @@
 1. [Team Members](#team-members)
 	* [Project Abstract](#project-abstract)
 2. [Project Description](#project-description)
-3. [Project Videos](#project-videos)
-4. [User Stories and Design Diagram](#user-stories-and-design-diagrams)
-    * [User Stories](#user-stories)
-    * [Design Diagrams](#design-diagrams)
-5. [Project Tasks, Timeline, and Effort Matrix](#project-tasks-timeline-and-effort-matrix)
-    * [Task List](#task-list)
-    * [Timeline and Effort Matrix](#timeline-and-effort-matrix)
+3. [User Interface Specification](#user-interface-specification)
+4. [Test Plan and Results](#test-plan-and-results)
+5. [User Manual](#user-manual)
 6. [PPT Slideshow](#ppt-slideshow)
-7. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
-8. [Professional Biographies](#professional-biographies)
-9. [Budget](#budget)
-10. [Appendix](#appendix)
+7. [Expo Poster](#expo-poster)
+8. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
+9. [Summary of Hours](#summary-of-hours)
+    * [Timeline and Effort Matrix](#timeline-and-effort-matrix)
+11. [Appendix](#appendix)
 
 ***
 
@@ -41,72 +38,51 @@ With our application we hope to give users an easy way to answer the question an
 
 ***
 
-## Project Videos
+## User Interface Specification
 
-* [Final Presentation](https://youtu.be/ASxNq7-KsSIhttps://www.youtube.com/watch?v=nO9-Z7mlw5o&feature=youtu.be)
-    
-    <a href="https://www.youtube.com/watch?v=nO9-Z7mlw5o&feature=youtu.be"><img src="https://i.ytimg.com/vi/nO9-Z7mlw5o/maxresdefault.jpg" alt="Final Presentation" width="240" height="180" /></a>
-***
 
-## User Stories and Design Diagrams
-
-### User Stories
-* As a *parent*, **I want to spend less time buying / making food** for the family, so that I **can spend more time elsewhere**.
-   
-* As an *athlete*, **I want to effortlessly create nutritionally accurate meal plans week to week**, so that **I can stay in peak physical shape**.
-  
-* As a *social media user*, **I want to keep track of what family and friends are eating**, so that **I can have new foods to experience**.
-    
-* As a *college student*, **I want to see how much I will be spending on food every week**, so that **I can budget accurately**.
-    
-* As a *human being*, **I want to be more mindful of what I eat**, so that **I can be healthier**.
 
 ***
 
-### Design Diagrams
-[Design Diagram 0](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Design_Diagrams/D0.pdf)
+## Test Plan and Results
 
-[Design Diagram I](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Design_Diagrams/D1.pdf)
-
-[Design Diagram II](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Design_Diagrams/D2.pdf)
+[Test Plan](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/TestPlan.pdf)
 
 ***
 
-## Project Tasks, Timeline, and Effort Matrix
+## User Manual
 
-### Task List
+[User Manual](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/UserDocumentation.md)
+
 ***
 
-1.  ~~Complete design details / solidify technologies and scope of project - Zac / Sam~~
-    
-2.  ~~Identify and contact a potential advisor with experience in programming~~
-    
-3.  Gather data from web to use as resources - Sam
-    
-4. ~~Research and understand different popular diets (athlete, daily needs, etc.) - Zac~~
-    
-5.  Create recipe database with ingredients dataset and compose table structures - Zac
-    
-6.  ~~Research mobile application platforms/languages - Sam~~
-    
-7. ~~Obtain any necessary software or licenses - Zac / Sam~~
-    
-8.  Build mobile application Flutter - Sam
-    
-9.  Build Restful api - Zac
-    
-10.  Integrate api into Azure web services - Zac
-    
-11.  Host DB in Azure Cloud - Zac
-    
-12.  Develop tests for creating meal plans - Sam
-    
-13.  Evaluate functionality - Zac / Sam
-    
-14.  Tweak project for better results - Zac / Sam
-    
-15.  Write up report/presentation - Zac / Sam
+## PowerPoint Slideshow
 
+[Spring 2021 PPT](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/FstFd%20PowerPoint%20Overview.pdf)
+
+[Expo Video](https://youtu.be/TfFJQmDtQaM)
+
+***
+
+## Expo Poster
+
+[Expo Poster](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/ExpoPoster.png)
+
+***
+
+## Fall Semester Self-Assessment Essays
+
+[Sam's Initial Self-Assessment](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Fall%20Assignments/A3/Frisch_CapstoneAssessment.pdf)
+
+[Sam's Final Self-Assessment](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/Assessments/Frisch_FinalAssessment.pdf)
+
+[Zac's Initial Self-Assessment](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Fall%20Assignments/A3/England_CapstoneAssessment.pdf)
+
+[Zac's Final Self-Assessment](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/Assessments/England_FinalAssessment.pdf)
+
+***
+
+## Summary of Hours
 
 ***
 
@@ -163,101 +139,6 @@ With our application we hope to give users an easy way to answer the question an
 <td>Write up report/presentation</td><td>3/26</td><td>4/9</td><td>Both</td><td align="right">6</td>
 </tr>
 </table>
-
-***
-
-## PowerPoint Slideshow
-[Fall 2020 PPT Overview](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Fall%20Assignments/A8/Assignment%208.pdf)
-
-## Fall Semester Self-Assessment Essays
-
-[Sam's Self-Assessment](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Fall%20Assignments/A3/Frisch_CapstoneAssessment.pdf)
-
-[Zac's Self-Assessment](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Fall%20Assignments/A3/England_CapstoneAssessment.pdf)
-***
-
-## Professional Biographies
-
-
-## Sam Frisch 
-**Email:** frischsl@mail.uc.edu  
-
-**Phone:** 513-706-0389
-
-## Co-op Experiences
-#### Reliable Transportation Solutions (1 Semester)
-* Practiced .NET Core MVC architectural pattern
-* Engaged in full-stack development
-
-#### Crossroads Church (2 Semesters)
-* Transformed legacy application to adapt modern asynchronous practice
-* Designed and built internal customer service reporting solution
-* Ran strict AGILE practices
-
-#### International TechneGroup (2 Semesters)
-* Enhanced analytical processes for CAD Model surface matching
-* Worked hands on with CAD Native APIs
-
-
-## Skills
-Programming | Proficiency
------------ | -----------
-C# | * * * * *
-.NET | * * * * *
-Python | * * * * *
-JS | * * *
-TSQL | * * *
-Flutter | * *
-HTML / CSS | * 
-
-## Areas of Interest
-* Mobile Development
-* Cloud Computing
-* Database Projects
-* Deep Learning
-
-## Project Sought
-* Mobile application built for both Android and iOS using Flutter's UI Framework
-* Application to re-define 'Fast Food' as the food you create at home rather than the food classically coined as 'Fast Food'
-
-***
-
-
-## Zachary England
-
-## Contact Info
-
-**Email:** englanzc@mail.uc.edu
-
-## Co-op Experience
-
-* **Software Developer, Total Quality Logistics, Cincinnati, OH, May 2018-Aug 2020:**
-	* Initially worked with QA and learned the Gherkin test case format
-	* Developed features for a Winforms application
-	* Worked with SQL Server to create and modify database stored procedures
-	* Developed .NET Core microservice endpoints
-	* Developed features for an Angular web application
-
-## Skills/Expertise Areas
-
-* Programming: C#, C++
-* Web Development: Angular, ngrx, Typescript
-* Database: SQL Server
-
-## Areas of Interest
-
-* Digital/Analog Game Development
-* NLP
-
-## Type of Project Sought
-
-* Something that encompasses most/all aspects of a typical software product (database, API, UI, possibly hardware)
-* Educational Programming Game
-
-***
-
-## Budget
-There have not been and there are no plans to spend any money on this project.
 
 ***
 
