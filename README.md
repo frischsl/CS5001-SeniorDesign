@@ -37,12 +37,6 @@ With our application we hope to give users an easy way to answer the question an
 
 ***
 
-## User Interface Specification
-
-
-
-***
-
 ## Test Plan and Results
 
 [Test Plan](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/TestPlan.pdf)
