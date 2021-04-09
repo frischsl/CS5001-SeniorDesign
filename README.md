@@ -5,15 +5,14 @@
 1. [Team Members](#team-members)
 	* [Project Abstract](#project-abstract)
 2. [Project Description](#project-description)
-3. [User Interface Specification](#user-interface-specification)
-4. [Test Plan and Results](#test-plan-and-results)
-5. [User Manual](#user-manual)
-6. [PPT Slideshow](#ppt-slideshow)
-7. [Expo Poster](#expo-poster)
-8. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
-9. [Summary of Hours](#summary-of-hours)
+3. [Test Plan and Results](#test-plan-and-results)
+4. [User Manual](#user-manual)
+5. [PPT Slideshow](#ppt-slideshow)
+6. [Expo Poster](#expo-poster)
+7. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
+8. [Summary of Hours](#summary-of-hours)
     * [Timeline and Effort Matrix](#timeline-and-effort-matrix)
-11. [Appendix](#appendix)
+9. [Appendix](#appendix)
 
 ***
 
@@ -47,6 +46,8 @@ With our application we hope to give users an easy way to answer the question an
 ## Test Plan and Results
 
 [Test Plan](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/TestPlan.pdf)
+
+Test Results: All tests were a manual pass fail. We ran through each test and passed them all using the latest version of FstFd.
 
 ***
 
@@ -84,61 +85,7 @@ With our application we hope to give users an easy way to answer the question an
 
 ## Summary of Hours
 
-***
-
-### Timeline and Effort Matrix
-<table border="1" cellpadding="2" cellspacing="0">
-<tr style="font-weight: bold; background-color: #aaa;">
-<td>Timeline Task/Milestone</td><td>Start Date</td><td>Completion Date</td><td>Effort Matrix Primary Owner</td><td>Effort Hours</td>
-</tr>
-<tr style="background-color: #f0f0f0">
-<td><strike>Complete design details / solidify technologies and scope of project</td><td>10/2</td><td>10/9</td><td>Both</td><td align="right">3</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Gather data from web to use as resources</td><td>10/2</td><td>10/9</td><td>Sam</td><td align="right">3</td></tr>
-<tr style="background-color: #f0f0f0">
-<td><strike>Research and understand different popular diets (athlete, daily needs, etc.)</td><td>10/2</td><td>10/4</td><td>Zac</td><td align="right">1</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Create recipe database with ingredients dataset and compose table structures</td><td>10/9</td><td>10/23</td><td>Zac</td><td align="right">6</td>
-</tr>
-<tr style="background-color: #f0f0f0">
-<td><strike>Research mobile application platforms/languages</td><td>10/9</td><td>10/16</td><td>Sam</td><td align="right">3</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td><strike>Obtain any necessary software or licenses</td><td>&nbsp;</td><td>&nbsp;</td><td>Both</td><td align="right">2</td>
-</tr>
-<tr style="background-color: #f0f0f0">
-<td>Build mobile application Flutter</td><td>10/16</td><td>11/13</td><td>Sam</td><td align="right">12</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Build Restful api</td><td>10/23</td><td>11/20</td><td>Zac</td><td align="right">12</td>
-</tr>
-<tr style="background-color: #f0f0f0">
-<td>Iterate on the Previous Two after winter break</td><td>1/8</td><td>1/15</td><td>Both</td><td align="right">3</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Integrate api into Azure web services</td><td>1/22</td><td>2/5</td><td>Zac</td><td align="right">6</td>
-</tr>
-<tr style="background-color: #f0f0f0">
-<td>Develop tests for creating meal plans</td><td>1/22</td><td>2/5</td><td>Sam</td><td align="right">6</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Host DB in Azure Cloud</td><td>2/5</td><td>2/12</td><td>Zac</td><td align="right">3</td>
-</tr>
-<tr style="background-color: #f0f0f0">
-<td>Evaluate functionality</td><td>3/5</td><td>3/12</td><td>Both</td><td align="right">3</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Explore Additional Functionality</td><td>3/12</td><td>3/19</td><td>Both</td><td align="right">3
-</tr>
-<tr style="background-color: #f0f0f0">
-<td>Tweak project for better results</td><td>3/19</td><td>3/26</td><td>Both</td><td align="right">3</td>
-</tr>
-<tr style="background-color: #ffffff">
-<td>Write up report/presentation</td><td>3/26</td><td>4/9</td><td>Both</td><td align="right">6</td>
-</tr>
-</table>
+[Summary of Hours Table](https://github.com/frischsl/CS5001-SeniorDesign/blob/master/Spring%20Assignments/Summary%20of%20Hours.pdf)
 
 ***
 
