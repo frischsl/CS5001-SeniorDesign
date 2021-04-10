@@ -11,7 +11,6 @@
 6. [Expo Poster](#expo-poster)
 7. [Self-Assessment Essays](#fall-semester-self-assessment-essays)
 8. [Summary of Hours](#summary-of-hours)
-    * [Timeline and Effort Matrix](#timeline-and-effort-matrix)
 9. [Appendix](#appendix)
 
 ***
