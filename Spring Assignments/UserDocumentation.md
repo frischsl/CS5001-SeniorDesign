@@ -35,7 +35,7 @@ Once you have the application on your device, you can then continue to the follo
 
 <div>FstFd has a typical login screen. If you already have an existing account then you can enter your username and password.</div>
 
-<img src=/User%20Docs%20Images/Login.png width="265" height="500">
+<img src=../User%20Docs%20Images/Login.png width="265" height="500">
 
 <p>If not then you can click on the register button towards the bottom of the screen and follow the instructions on the subsequent page.</p>
 
